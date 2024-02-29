@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "campus_trees",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "species": null, "dbh": null }, "geometry": { "type": "Point", "coordinates": [ -9407037.12252202630043, 4584873.78730989806354 ] } },
+{ "type": "Feature", "properties": { "species": null, "dbh": null }, "geometry": { "type": "Point", "coordinates": [ -9407042.731538619846106, 4584854.436202648095787 ] } },
+{ "type": "Feature", "properties": { "species": null, "dbh": null }, "geometry": { "type": "Point", "coordinates": [ -9407038.244325345382094, 4584893.418867978267372 ] } },
+{ "type": "Feature", "properties": { "species": null, "dbh": null }, "geometry": { "type": "Point", "coordinates": [ -9407051.425514342263341, 4584886.968498894944787 ] } },
+{ "type": "Feature", "properties": { "species": null, "dbh": null }, "geometry": { "type": "Point", "coordinates": [ -9407064.606703337281942, 4584880.798580640926957 ] } },
+{ "type": "Feature", "properties": { "species": null, "dbh": null }, "geometry": { "type": "Point", "coordinates": [ -9407048.060104385018349, 4584840.694111992605031 ] } }
+]
+}
